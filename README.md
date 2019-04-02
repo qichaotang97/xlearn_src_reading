@@ -1,3 +1,6 @@
+# xLearn 源码阅读笔记
+基于原先的 xLearn 项目, 结合自己的理解, 增加相关的源码阅读笔记
+
 <img src="https://github.com/aksnzhy/xLearn/raw/master/img/xlearn_logo.png" width = "400"/>
 
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](./LICENCE)
